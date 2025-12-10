@@ -1,0 +1,313 @@
+hololive:
+  - title: "AZKi"
+    alt: "AZKi"
+    url: /assets/images/hololive/AZKi_list_thumb.png
+    image_path: /assets/images/hololive/AZKi_list_thumb.png
+  - title: "Airani Iofifteen"
+    alt: "Airani Iofifteen"
+    url: /assets/images/hololive/Airani-Iofifteen_list_thumb.png
+    image_path: /assets/images/hololive/Airani-Iofifteen_list_thumb.png
+  - title: "Akai Haato"
+    alt: "Akai Haato"
+    url: /assets/images/hololive/Akai-Haato_list_thumb.png
+    image_path: /assets/images/hololive/Akai-Haato_list_thumb.png
+  - title: "Aki Rosenthal"
+    alt: "Aki Rosenthal"
+    url: /assets/images/hololive/Aki-Rosenthal_list_thumb.png
+    image_path: /assets/images/hololive/Aki-Rosenthal_list_thumb.png
+  - title: "Amane Kanata"
+    alt: "Amane Kanata"
+    url: /assets/images/hololive/Amane-Kanata_list_thumb.png
+    image_path: /assets/images/hololive/Amane-Kanata_list_thumb.png
+  - title: "Anya Melfissa"
+    alt: "Anya Melfissa"
+    url: /assets/images/hololive/Anya-Melfissa_list_thumb.png
+    image_path: /assets/images/hololive/Anya-Melfissa_list_thumb.png
+  - title: "Ayunda Risu"
+    alt: "Ayunda Risu"
+    url: /assets/images/hololive/Ayunda-Risu_list_thumb.png
+    image_path: /assets/images/hololive/Ayunda-Risu_list_thumb.png
+  - title: "Cecilia Immergreen"
+    alt: "Cecilia Immergreen"
+    url: /assets/images/hololive/Cecilia-Immergreen_list_thumb.png
+    image_path: /assets/images/hololive/Cecilia-Immergreen_list_thumb.png
+  - title: "Ceres Fauna"
+    alt: "Ceres Fauna"
+    url: /assets/images/hololive/Ceres-Fauna_list_thumb.png
+    image_path: /assets/images/hololive/Ceres-Fauna_list_thumb.png
+  - title: "Elizabeth Rose Bloodflame"
+    alt: "Elizabeth Rose Bloodflame"
+    url: /assets/images/hololive/Elizabeth-Rose-Bloodflame_list_thumb.png
+    image_path: /assets/images/hololive/Elizabeth-Rose-Bloodflame_list_thumb.png
+  - title: "Friend A"
+    alt: "Friend A"
+    url: /assets/images/hololive/Friend-A_list_thumb.png
+    image_path: /assets/images/hololive/Friend-A_list_thumb.png
+  - title: "Fuwawa Abyssgard"
+    alt: "Fuwawa Abyssgard"
+    url: /assets/images/hololive/Fuwawa-Abyssgard_list_thumb.png
+    image_path: /assets/images/hololive/Fuwawa-Abyssgard_list_thumb.png
+  - title: "Gawr Gura"
+    alt: "Gawr Gura"
+    url: /assets/images/hololive/Gawr-Gura_list_thumb.png
+    image_path: /assets/images/hololive/Gawr-Gura_list_thumb.png
+  - title: "Gigi Murin"
+    alt: "Gigi Murin"
+    url: /assets/images/hololive/Gigi-Murin_list_thumb.png
+    image_path: /assets/images/hololive/Gigi-Murin_list_thumb.png
+  - title: "Hakos Baelz"
+    alt: "Hakos Baelz"
+    url: /assets/images/hololive/Hakos-Baelz_list_thumb.png
+    image_path: /assets/images/hololive/Hakos-Baelz_list_thumb.png
+  - title: "Hakui Koyori"
+    alt: "Hakui Koyori"
+    url: /assets/images/hololive/Hakui-Koyori_list_thumb.png
+    image_path: /assets/images/hololive/Hakui-Koyori_list_thumb.png
+  - title: "Hanazono Sayaka"
+    alt: "Hanazono Sayaka"
+    url: /assets/images/hololive/Hanazono-Sayaka_list_thumb.png
+    image_path: /assets/images/hololive/Hanazono-Sayaka_list_thumb.png
+  - title: "Harusaki Nodoka"
+    alt: "Harusaki Nodoka"
+    url: /assets/images/hololive/Harusaki-Nodoka_list_thumb.png
+    image_path: /assets/images/hololive/Harusaki-Nodoka_list_thumb.png
+  - title: "Himemori Luna"
+    alt: "Himemori Luna"
+    url: /assets/images/hololive/Himemori-Luna_list_thumb.png
+    image_path: /assets/images/hololive/Himemori-Luna_list_thumb.png
+  - title: "Hiodoshi Ao"
+    alt: "Hiodoshi Ao"
+    url: /assets/images/hololive/Hiodoshi-Ao_list_thumb.png
+    image_path: /assets/images/hololive/Hiodoshi-Ao_list_thumb.png
+  - title: "Hoshimachi Suisei"
+    alt: "Hoshimachi Suisei"
+    url: /assets/images/hololive/Hoshimachi-Suisei_list_thumb.png
+    image_path: /assets/images/hololive/Hoshimachi-Suisei_list_thumb.png
+  - title: "Houshou Marine"
+    alt: "Houshou Marine"
+    url: /assets/images/hololive/Houshou-Marine_list_thumb.png
+    image_path: /assets/images/hololive/Houshou-Marine_list_thumb.png
+  - title: "IRyS"
+    alt: "IRyS"
+    url: /assets/images/hololive/IRyS_list_thumb.png
+    image_path: /assets/images/hololive/IRyS_list_thumb.png
+  - title: "Ichijou Ririka"
+    alt: "Ichijou Ririka"
+    url: /assets/images/hololive/Ichijou-Ririka_list_thumb.png
+    image_path: /assets/images/hololive/Ichijou-Ririka_list_thumb.png
+  - title: "Inugami Korone"
+    alt: "Inugami Korone"
+    url: /assets/images/hololive/Inugami-Korone_list_thumb.png
+    image_path: /assets/images/hololive/Inugami-Korone_list_thumb.png
+  - title: "Isaki Riona"
+    alt: "Isaki Riona"
+    url: /assets/images/hololive/Isaki-Riona_list_thumb.png
+    image_path: /assets/images/hololive/Isaki-Riona_list_thumb.png
+  - title: "Izuki Michiru"
+    alt: "Izuki Michiru"
+    url: /assets/images/hololive/Izuki-Michiru_list_thumb.png
+    image_path: /assets/images/hololive/Izuki-Michiru_list_thumb.png
+  - title: "Juufuutei Raden"
+    alt: "Juufuutei Raden"
+    url: /assets/images/hololive/Juufuutei-Raden_list_thumb.png
+    image_path: /assets/images/hololive/Juufuutei-Raden_list_thumb.png
+  - title: "Kaela Kovalskia"
+    alt: "Kaela Kovalskia"
+    url: /assets/images/hololive/Kaela-Kovalskia_list_thumb.png
+    image_path: /assets/images/hololive/Kaela-Kovalskia_list_thumb.png
+  - title: "Kazama Iroha"
+    alt: "Kazama Iroha"
+    url: /assets/images/hololive/Kazama-Iroha_list_thumb.png
+    image_path: /assets/images/hololive/Kazama-Iroha_list_thumb.png
+  - title: "Kikirara Vivi"
+    alt: "Kikirara Vivi"
+    url: /assets/images/hololive/Kikirara-Vivi_list_thumb.png
+    image_path: /assets/images/hololive/Kikirara-Vivi_list_thumb.png
+  - title: "Kiryu Coco"
+    alt: "Kiryu Coco"
+    url: /assets/images/hololive/Kiryu-Coco_list_thumb.png
+    image_path: /assets/images/hololive/Kiryu-Coco_list_thumb.png
+  - title: "Kobo Kanaeru"
+    alt: "Kobo Kanaeru"
+    url: /assets/images/hololive/Kobo-Kanaeru_list_thumb.png
+    image_path: /assets/images/hololive/Kobo-Kanaeru_list_thumb.png
+  - title: "Koganei Niko"
+    alt: "Koganei Niko"
+    url: /assets/images/hololive/Koganei-Niko_list_thumb.png
+    image_path: /assets/images/hololive/Koganei-Niko_list_thumb.png
+  - title: "Koseki Bijou"
+    alt: "Koseki Bijou"
+    url: /assets/images/hololive/Koseki-Bijou_list_thumb.png
+    image_path: /assets/images/hololive/Koseki-Bijou_list_thumb.png
+  - title: "Kureiji Ollie"
+    alt: "Kureiji Ollie"
+    url: /assets/images/hololive/Kureiji-Ollie_list_thumb.png
+    image_path: /assets/images/hololive/Kureiji-Ollie_list_thumb.png
+  - title: "La Darknesss"
+    alt: "La Darknesss"
+    url: /assets/images/hololive/La-Darknesss_list_thumb.png
+    image_path: /assets/images/hololive/La-Darknesss_list_thumb.png
+  - title: "Minato Aqua"
+    alt: "Minato Aqua"
+    url: /assets/images/hololive/Minato-Aqua_list_thumb.png
+    image_path: /assets/images/hololive/Minato-Aqua_list_thumb.png
+  - title: "Mizumiya Su"
+    alt: "Mizumiya Su"
+    url: /assets/images/hololive/Mizumiya-Su_list_thumb.png
+    image_path: /assets/images/hololive/Mizumiya-Su_list_thumb.png
+  - title: "Mococo Abyssgard"
+    alt: "Mococo Abyssgard"
+    url: /assets/images/hololive/Mococo-Abyssgard_list_thumb.png
+    image_path: /assets/images/hololive/Mococo-Abyssgard_list_thumb.png
+  - title: "Momosuzu Nene"
+    alt: "Momosuzu Nene"
+    url: /assets/images/hololive/Momosuzu-Nene_list_thumb.png
+    image_path: /assets/images/hololive/Momosuzu-Nene_list_thumb.png
+  - title: "Moona Hoshinova"
+    alt: "Moona Hoshinova"
+    url: /assets/images/hololive/Moona-Hoshinova_list_thumb.png
+    image_path: /assets/images/hololive/Moona-Hoshinova_list_thumb.png
+  - title: "Mori Calliope"
+    alt: "Mori Calliope"
+    url: /assets/images/hololive/Mori-Calliope_list_thumb.png
+    image_path: /assets/images/hololive/Mori-Calliope_list_thumb.png
+  - title: "Murasaki Shion"
+    alt: "Murasaki Shion"
+    url: /assets/images/hololive/Murasaki-Shion_list_thumb.png
+    image_path: /assets/images/hololive/Murasaki-Shion_list_thumb.png
+  - title: "Nakiri Ayame"
+    alt: "Nakiri Ayame"
+    url: /assets/images/hololive/Nakiri-Ayame_list_thumb.png
+    image_path: /assets/images/hololive/Nakiri-Ayame_list_thumb.png
+  - title: "Nanashi Mumei"
+    alt: "Nanashi Mumei"
+    url: /assets/images/hololive/Nanashi-Mumei_list_thumb.png
+    image_path: /assets/images/hololive/Nanashi-Mumei_list_thumb.png
+  - title: "Natsuiro Matsuri"
+    alt: "Natsuiro Matsuri"
+    url: /assets/images/hololive/Natsuiro-Matsuri_list_thumb.png
+    image_path: /assets/images/hololive/Natsuiro-Matsuri_list_thumb.png
+  - title: "Nekomata Okayu"
+    alt: "Nekomata Okayu"
+    url: /assets/images/hololive/Nekomata-Okayu_list_thumb.png
+    image_path: /assets/images/hololive/Nekomata-Okayu_list_thumb.png
+  - title: "Nerissa Ravencroft"
+    alt: "Nerissa Ravencroft"
+    url: /assets/images/hololive/Nerissa-Ravencroft_list_thumb.png
+    image_path: /assets/images/hololive/Nerissa-Ravencroft_list_thumb.png
+  - title: "Ninomae Inanis"
+    alt: "Ninomae Inanis"
+    url: /assets/images/hololive/Ninomae-Inanis_list_thumb.png
+    image_path: /assets/images/hololive/Ninomae-Inanis_list_thumb.png
+  - title: "Omaru Polka"
+    alt: "Omaru Polka"
+    url: /assets/images/hololive/Omaru-Polka_list_thumb.png
+    image_path: /assets/images/hololive/Omaru-Polka_list_thumb.png
+  - title: "Ookami Mio"
+    alt: "Ookami Mio"
+    url: /assets/images/hololive/Ookami-Mio_thumb.png
+    image_path: /assets/images/hololive/Ookami-Mio_thumb.png
+  - title: "Oozora Subaru"
+    alt: "Oozora Subaru"
+    url: /assets/images/hololive/Oozora-Subaru_list_thumb.png
+    image_path: /assets/images/hololive/Oozora-Subaru_list_thumb.png
+  - title: "Otonose Kanade"
+    alt: "Otonose Kanade"
+    url: /assets/images/hololive/Otonose-Kanade_list_thumb.png
+    image_path: /assets/images/hololive/Otonose-Kanade_list_thumb.png
+  - title: "Ouro Kronii"
+    alt: "Ouro Kronii"
+    url: /assets/images/hololive/Ouro-Kronii_list_thumb.png
+    image_path: /assets/images/hololive/Ouro-Kronii_list_thumb.png
+  - title: "Pavolia Reine"
+    alt: "Pavolia Reine"
+    url: /assets/images/hololive/Pavolia-Reine_list_thumb.png
+    image_path: /assets/images/hololive/Pavolia-Reine_list_thumb.png
+  - title: "Raora Panthera"
+    alt: "Raora Panthera"
+    url: /assets/images/hololive/Raora-Panthera_list_thumb.png
+    image_path: /assets/images/hololive/Raora-Panthera_list_thumb.png
+  - title: "Rindo Chihaya"
+    alt: "Rindo Chihaya"
+    url: /assets/images/hololive/Rindo-Chihaya_list_thumb.png
+    image_path: /assets/images/hololive/Rindo-Chihaya_list_thumb.png
+  - title: "Robocosan"
+    alt: "Robocosan"
+    url: /assets/images/hololive/Robocosan_list_thumb.png
+    image_path: /assets/images/hololive/Robocosan_list_thumb.png
+  - title: "Sakamata Chloe"
+    alt: "Sakamata Chloe"
+    url: /assets/images/hololive/Sakamata-Chloe_list_thumb.png
+    image_path: /assets/images/hololive/Sakamata-Chloe_list_thumb.png
+  - title: "Sakura Miko"
+    alt: "Sakura Miko"
+    url: /assets/images/hololive/Sakura-Miko_list_thumb.png
+    image_path: /assets/images/hololive/Sakura-Miko_list_thumb.png
+  - title: "Shiori Novella"
+    alt: "Shiori Novella"
+    url: /assets/images/hololive/Shiori-Novella_list_thumb.png
+    image_path: /assets/images/hololive/Shiori-Novella_list_thumb.png
+  - title: "Shirakami Fubuki"
+    alt: "Shirakami Fubuki"
+    url: /assets/images/hololive/Shirakami-Fubuki_list_thumb.png
+    image_path: /assets/images/hololive/Shirakami-Fubuki_list_thumb.png
+  - title: "Shiranui Flare"
+    alt: "Shiranui Flare"
+    url: /assets/images/hololive/Shiranui-Flare_list_thumb.png
+    image_path: /assets/images/hololive/Shiranui-Flare_list_thumb.png
+  - title: "Shirogane Noel"
+    alt: "Shirogane Noel"
+    url: /assets/images/hololive/Shirogane-Noel_list_thumb.png
+    image_path: /assets/images/hololive/Shirogane-Noel_list_thumb.png
+  - title: "Shishiro Botan"
+    alt: "Shishiro Botan"
+    url: /assets/images/hololive/Shishiro-Botan_list_thumb.png
+    image_path: /assets/images/hololive/Shishiro-Botan_list_thumb.png
+  - title: "Takanashi Kiara"
+    alt: "Takanashi Kiara"
+    url: /assets/images/hololive/Takanashi-Kiara_list_thumb.png
+    image_path: /assets/images/hololive/Takanashi-Kiara_list_thumb.png
+  - title: "Takane Lui"
+    alt: "Takane Lui"
+    url: /assets/images/hololive/Takane-Lui_list_thumb.png
+    image_path: /assets/images/hololive/Takane-Lui_list_thumb.png
+  - title: "Todoroki Hajime"
+    alt: "Todoroki Hajime"
+    url: /assets/images/hololive/Todoroki-Hajime_list_thumb.png
+    image_path: /assets/images/hololive/Todoroki-Hajime_list_thumb.png
+  - title: "Tokoyami Towa"
+    alt: "Tokoyami Towa"
+    url: /assets/images/hololive/Tokoyami-Towa_list_thumb.png
+    image_path: /assets/images/hololive/Tokoyami-Towa_list_thumb.png
+  - title: "Tsukumo Sana"
+    alt: "Tsukumo Sana"
+    url: /assets/images/hololive/Tsukumo-Sana_list_thumb.png
+    image_path: /assets/images/hololive/Tsukumo-Sana_list_thumb.png
+  - title: "Tsunomaki Watame"
+    alt: "Tsunomaki Watame"
+    url: /assets/images/hololive/Tsunomaki-Watame_list_thumb.png
+    image_path: /assets/images/hololive/Tsunomaki-Watame_list_thumb.png
+  - title: "Usada Pekora"
+    alt: "Usada Pekora"
+    url: /assets/images/hololive/Usada-Pekora_list_thumb.png
+    image_path: /assets/images/hololive/Usada-Pekora_list_thumb.png
+  - title: "Vestia Zeta"
+    alt: "Vestia Zeta"
+    url: /assets/images/hololive/Vestia-Zeta_list_thumb.png
+    image_path: /assets/images/hololive/Vestia-Zeta_list_thumb.png
+  - title: "Watson Amelia"
+    alt: "Watson Amelia"
+    url: /assets/images/hololive/Watson-Amelia_list_thumb.png
+    image_path: /assets/images/hololive/Watson-Amelia_list_thumb.png
+  - title: "Yukihana Lamy"
+    alt: "Yukihana Lamy"
+    url: /assets/images/hololive/Yukihana-Lamy_list_thumb.png
+    image_path: /assets/images/hololive/Yukihana-Lamy_list_thumb.png
+  - title: "Yuzuki Choco"
+    alt: "Yuzuki Choco"
+    url: /assets/images/hololive/Yuzuki-Choco_list_thumb.png
+    image_path: /assets/images/hololive/Yuzuki-Choco_list_thumb.png
+  - title: "Tokino Sora"
+    alt: "Tokino Sora"
+    url: /assets/images/hololive/tokino_sora_thumb.png
+    image_path: /assets/images/hololive/tokino_sora_thumb.png
